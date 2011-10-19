@@ -10,7 +10,7 @@ use Acme::CPANAuthors::Register ( ALEXM     => 'Alex Muntada',
                                   ENELL     => 'Enrique Nell',
                                   EXPLORER  => 'Joaquín Ferrer',
                                   FXN       => 'Xavier Noria',
-                                  JLMARTIN  => 'Jose Luis Martíne',
+                                  JLMARTIN  => 'Jose Luis Martínez',
                                   MRUIZ     => 'Miquel Ruiz',
                                 );
 
