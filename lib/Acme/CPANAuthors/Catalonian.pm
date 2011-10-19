@@ -8,7 +8,6 @@ our $VERSION = '0.01';
 use Acme::CPANAuthors::Register ( ALEXM     => 'Alex Muntada',
                                   BREQUESEN => 'Bernat Requesens',
                                   ENELL     => 'Enrique Nell',
-                                  EXPLORER  => 'Joaquín Ferrer',
                                   FXN       => 'Xavier Noria',
                                   JLMARTIN  => 'Jose Luis Martíne',
                                   MRUIZ     => 'Miquel Ruiz',
