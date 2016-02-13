@@ -2,14 +2,16 @@ package Acme::CPANAuthors::Catalonian;
 
 use warnings;
 use strict;
+use utf8;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 use Acme::CPANAuthors::Register ( ALEXM     => 'Alex Muntada',
                                   BREQUESEN => 'Bernat Requesens',
                                   DIEGOK    => 'Diego Kuperman',
                                   ENELL     => 'Enrique Nell',
                                   FXN       => 'Xavier Noria',
+                                  JAVIER    => 'Javier Arturo Rodríguez Gutiérrez',
                                   JLMARTIN  => 'Jose Luis Martínez',
                                   MRUIZ     => 'Miquel Ruiz',
                                 );
